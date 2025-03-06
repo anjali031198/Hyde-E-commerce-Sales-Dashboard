@@ -24,7 +24,8 @@ This **Power BI dashboard** provides key insights into **Hyde eCommerce sales da
 - **Excel** – Data preprocessing (if applicable)  
 
 ## 📸 Dashboard Preview  
-*(Add screenshots of your dashboard here)*  
+![image](https://github.com/user-attachments/assets/322ab78a-e420-415b-8003-e6d2b1313960)
+  
 
 ## 🔗 How to Use  
 1. Open the **Power BI file (.pbix)**  
